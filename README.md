@@ -15,4 +15,4 @@ npx skills add vanishcode/wallet-development-skills
 
 ## License
 
-MIT @ vanishcode
+MIT@vanishcode
